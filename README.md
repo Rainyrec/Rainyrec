@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jyestha
-- 👀 I’m interested in search
-- 🌱 I’m currently learning search and how to finding best people
-- 💞️ I’m looking to collaborate career exploring ideas
-- 📫 say hi on jyestha@gevme.com
+- 👀 I’m interested in the search
+- 🌱 I’m currently learning search and how to find best people
+- 💞️ I’m looking to collaborate in career exploring ideas
+- 📫 say hi on jyestha.icfai@gmail.com
 
 <!---
 Rainyrec/Rainyrec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
